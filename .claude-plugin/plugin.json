@@ -1,0 +1,13 @@
+{
+  "name": "ai-lead-enrichment",
+  "version": "1.0.0",
+  "description": "Your AI Agent finds the HubSpot contacts with no email or no job title, completes them through Evaboot, adds a job function, a seniority and a fit summary, and writes back only the empty fields.",
+  "author": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "homepage": "https://evaboot.com/blog/ai-lead-enrichment",
+  "repository": "https://github.com/evaboot-labs/ai-lead-enrichment",
+  "license": "MIT",
+  "privacyPolicyUrl": "https://evaboot.com/privacy-policy",
+  "keywords": ["lead-enrichment", "crm-enrichment", "hubspot", "ai-agent", "evaboot", "n8n"],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

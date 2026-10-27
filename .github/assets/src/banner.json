@@ -1,0 +1,7 @@
+{"layout": "flow", "eyebrow": "evaboot-labs · ai-lead-enrichment", "headline": "Complete every new contact.",
+ "subline": "Missing emails and titles found, a fit summary added, nothing in your CRM overwritten.",
+ "nodes": [{"label": "01 · Pull", "title": "HubSpot", "caption": "No email or no title"},
+           {"label": "02 · Find", "title": "Evaboot", "caption": "Profile export, email finder"},
+           {"label": "03 · Judge", "title": "AI Agent", "caption": "Function, seniority, fit"},
+           {"label": "04 · Result", "title": "HubSpot", "caption": "Empty fields filled"}],
+ "spec": "only empty fields written · off-domain emails held for review"}

@@ -1,0 +1,14 @@
+{
+  "name": "evaboot-labs-ai-lead-enrichment",
+  "owner": { "name": "Evaboot", "url": "https://evaboot.com" },
+  "metadata": {
+    "description": "AI lead enrichment for HubSpot: an Evaboot waterfall for missing emails and titles, an AI fit summary, and a write-back that never overwrites your data."
+  },
+  "plugins": [
+    {
+      "name": "ai-lead-enrichment",
+      "source": "./",
+      "description": "Your AI Agent finds the HubSpot contacts with no email or no job title, completes them through Evaboot, adds a job function, a seniority and a fit summary, and writes back only the empty fields."
+    }
+  ]
+}

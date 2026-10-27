@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "evaboot": {
+      "type": "http",
+      "url": "https://mcp.evaboot.com/mcp",
+      "headers": {
+        "Authorization": "Bearer ${EVABOOT_API_KEY}"
+      }
+    }
+  }
+}
